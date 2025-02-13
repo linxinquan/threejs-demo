@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkself_create=self.webpackChunkself_create||[]).push([[475],{4475:(e,s,l)=>{l.r(s),l.d(s,{default:()=>c});var t=l(28),r=l(6070);function c(){return(0,r.jsx)(t.Ay,{status:"404",title:"错误",children:(0,r.jsx)("ul",{children:(0,r.jsx)("li",{children:"请刷新"})})})}}}]);
